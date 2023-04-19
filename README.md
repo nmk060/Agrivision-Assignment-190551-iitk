@@ -1,4 +1,4 @@
-# Agrivision-Assignment-190551-iitk
+# Agrivision4u-Assignment-190551-iitk
 1. Install postgres sql
 2. Open pg admin then write a query to create a table
 CREATE TABLE users (
