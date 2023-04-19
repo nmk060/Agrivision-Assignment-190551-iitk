@@ -8,6 +8,7 @@ CREATE TABLE users (
     CONSTRAINT users_pkey PRIMARY KEY(id)
 )
 WITH (oids = false);
+
 NOTE : make sure the name of the database is postgres or you can write your own .env file and config the data base in the .env file as 
 
 PGHOST=<postgres_host>
